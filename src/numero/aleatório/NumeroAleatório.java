@@ -10,6 +10,7 @@ import java.util.*;
  *
  * @author Marcos
  */
+
 public class NumeroAleatório {
 
     /**
